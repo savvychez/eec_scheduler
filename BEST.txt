@@ -1,0 +1,7 @@
+Algorithm: pmapper
+Test: Hour
+Energy: 3.58266 KWhr
+Running Time: 3603.48 sec
+SLA0: 0%
+SLA1: 0%
+SLA2: 0%
