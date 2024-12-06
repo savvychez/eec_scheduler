@@ -5,3 +5,11 @@ Running Time: 3603.48 sec
 SLA0: 0%
 SLA1: 0%
 SLA2: 0%
+
+Algorithm: badeco
+Test: Hour
+Energy: 7.31172 KWhr
+Running Time: 3603.48 sec
+SLA0: 0%
+SLA1: 0%
+SLA2: 0%
